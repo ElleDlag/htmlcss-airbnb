@@ -18,7 +18,7 @@ main{
 }
 
 #img1{
-  background-image:url("https://images.unsplash.com/photo-1465963374564-44c306bc49dd?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1080&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1920");
+  background-image:url("http://lorempixel.com/output/city-q-c-1920-1080-4.jpg");
   background-size: cover;
 }
 #img2{
